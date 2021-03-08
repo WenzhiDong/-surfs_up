@@ -9,7 +9,8 @@ in order to determine if the surf and ice cream shop business is sustainable yea
 ![june](/Resources/june.png)
 ![dec](/Resources/dec.png)
 
- - The average temperature and standard deviation are close 
- -  
+ - The average temperature in June is a little higher
+ - The temperature variation in June is smaller, because standard deviation is lower  
+ - The minimum and maximum temperature in June are both higher than those in December
 
 ## Summary
