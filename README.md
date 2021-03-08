@@ -32,6 +32,7 @@ in order to determine if the surf and ice cream shop business is sustainable yea
  - Percipitation is larger on Dec than June, which may affect the business of the store on Dec.
  
  Although precipitation is larger on Dec, recent years, the percipitation over time is actually decreasing and become more stable on Dec than June, from the line plot. 
+ 
  In other words, in some years, precipitation on June may become larger than Dec and affect the business on June, while most of time, precipitation would larger on Dec.    
 
 The business would not meet big problems over time, but will have a little less profit on Dec.
