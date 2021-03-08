@@ -6,7 +6,10 @@ I will Sqlalchemy module in Python to query the data From a SQLite database to f
 in order to determine if the surf and ice cream shop business is sustainable year-round.
 
 ## Results
- - ![june](/Resources/june.png)
- - ![dec](/Resources/dec.png)
+![june](/Resources/june.png)
+![dec](/Resources/dec.png)
+
+ - The average temperature and standard deviation are close 
+ -  
 
 ## Summary
