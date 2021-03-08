@@ -15,13 +15,14 @@ in order to determine if the surf and ice cream shop business is sustainable yea
 
 ## Summary
 
-June vs. Dec Precipitation Summary
+### June vs. Dec Precipitation Summary
 ![june](/Resources/june_prcp.png)
 ![dec](/Resources/dec_prcp.png)
 
-June vs Dec: Precipitation Average Over 7 years 
-![june_avg](/Resources/june prcp avg change.png)
-![june_avg_plot](/Resources/june prcp avg change plot.png)
+### June vs Dec: Precipitation Average Over 7 years 
+![juneAvg](/Resources/june_prcp_avg_change.png)
+![juneAvgPlot](/Resources/june_prcp_avg_change_plot.png)
 
-![dec_avg](/Resources/dec prcp avg change.png)
-![dec_avg_plot](/Resources/dec prcp avg change plot.png)
+
+![decAvg](/Resources/dec_prcp_avg_change.png)
+![dec_avg_plot](/Resources/dec_prcp_avg_change_plot.png)
