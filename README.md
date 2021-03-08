@@ -14,3 +14,5 @@ in order to determine if the surf and ice cream shop business is sustainable yea
  - The minimum and maximum temperature in June are both higher than those in December
 
 ## Summary
+![june](/Resources/june_prcp.png)
+![dec](/Resources/dec_prcp.png)
