@@ -31,8 +31,8 @@ in order to determine if the surf and ice cream shop business is sustainable yea
  - Temperature difference is not very large, temperature would not affect the business
  - Percipitation is larger on Dec than June, which may affect the business of the store on Dec.
  
- Although precipitation is larger on Dec, recent years, the percipitation over time is actually decreasing and become more stable on Dec than June, from the line plot. 
+Although precipitation is larger on Dec, recent years, the percipitation over time is actually decreasing and become more stable on Dec than June, from the line plot. 
  
- In other words, in some years, precipitation on June may become larger than Dec and affect the business on June, while most of time, precipitation would larger on Dec.    
+In other words, in some years, precipitation on June may become larger than Dec because of its higher variability and affect the business on June, while in other years, precipitation would larger on Dec.    
 
 The business would not meet big problems over time, but will have a little less profit on Dec.
